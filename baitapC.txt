@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+zz
 int main()
 {
     int i, n;
