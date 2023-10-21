@@ -20,3 +20,5 @@ int main()
     return 0;
 }
 //Trung fixed lan 2
+
+// hello everybody, i'am QuocDat.
